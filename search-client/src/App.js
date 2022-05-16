@@ -3,9 +3,8 @@ import React from "react";
 function App() {
   return (
     <div>
-      <h1>
-        hello world
-      </h1>
+      <input type="text" />
+      <button>search</button>
       <div>
         {process.env.REACT_APP_OPEN_SEARCH_URL}
       </div>
