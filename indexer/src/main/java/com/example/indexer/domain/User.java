@@ -1,4 +1,4 @@
-package com.example.indexer.document;
+package com.example.indexer.domain;
 
 import lombok.Builder;
 import lombok.Data;
